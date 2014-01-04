@@ -1,4 +1,4 @@
 Ping
 ====
 
-A simple ping in windows by c.
+A simple ping in windows via winsock2
